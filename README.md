@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on quite a few things, and not finishing them 🙃
 - 🌱 I’m currently learning Computer Science and js
-- 😄 My pronouns are he/him
+- 😄 My pronouns are he/him, but I am questioning my gender.
 
 [![andmagdo's github stats](https://github-readme-stats.vercel.app/api?username=andmagdo&show_icons=true&locale=en&theme=solarized-dark&count_private=true)](https://github.com/andmagdo)
 
